@@ -2,8 +2,8 @@ public class HelloJava {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Hello Java mrinal ///");
-		System.out.println("Hello sunny");
+		System.out.println("change in dev 1 ///");
+		System.out.println("Hello shantiv");
 		  
 		  
 	
